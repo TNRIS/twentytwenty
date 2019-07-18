@@ -1,3 +1,6 @@
+# FORKED:
+package forked from zurb as it did not exist as an individual package within NPM (was only available through bower) and was forked in effort to provide availability within NPM. this repo is a clean fork with no code changes or functionality manipulation from TNRIS. 
+
 ## Basic usage
 
 Include the javascript and css files.
